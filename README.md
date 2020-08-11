@@ -1,6 +1,6 @@
 # YoutubeAutomation-and-Video-Editing
 
-Py program which takes 2 input from user :-
+Py program takes 2 input from user :-
 Video title which you want to download
 Audio which you want to mix in your video 
 This program automatically searches both of them and download in desired quality and then adds the audio as background to the video.
